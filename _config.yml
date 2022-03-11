@@ -1,0 +1,40 @@
+title: MNH48 Guild - Perseikatan MNH48
+description: MNH48 行会 - MNH48 ギルド
+owner_name: MNH48
+twitter_username: yayamnh48
+github_username: mnh48
+youtube_link: https://www.youtube.com/channel/UCnbL8SM08ViV43pZP5UuEhw/
+timezone: Asia/Kuala_Lumpur
+repository: mnh48/guild.mnh48.moe
+remote_theme: mnh48/mnh48moe-theme
+
+homepage:
+  name: MNH48.moe
+  wwwurl: www.mnh48.moe
+  url: mnh48.moe
+
+blog:
+  name: MNH48.com
+  wwwurl: www.mnh48.com
+  url: mnh48.com
+
+mnh48:
+    picture: https://img.mnh48.moe/mnh48/mnh48-200.png
+    twitter: yayamnh48
+
+plugins:
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-mentions
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
