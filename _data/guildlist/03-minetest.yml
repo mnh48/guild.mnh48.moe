@@ -1,0 +1,69 @@
+name: Minetest
+guild:
+  - icon: minetest.webp
+    name: Minetest
+    link: https://discord.gg/minetest
+    banner: minetest.png
+    introduction: >
+      Minetest server "Jom Main Minetest" coming soon™<br/>
+      Abide by the server rule if you don't want to get warned / muted / banned. Ping me or other mod if someone send scam link, spam or misbehave
+    summary:
+      en: Official Discord server of Minetest, an open source voxel game engine, the community is also available on [multiple other platforms](https://www.minetest.net/get-involved/) and some of the channels on Discord are bridged to IRC and Matrix room
+
+  - icon: edgynet-official.webp
+    name: EdgyNet Official
+    link: https://discord.gg/QXx3WuE
+    banner: edgynet-official.png
+    introduction: >
+      I'm MNH48 [...]. I mainly play on GTA and Catlandia. I love trains.
+    summary:
+      en: Official Discord server for EdgyNet, game server network of Minetest and Multicraft housing servers like Blockcity, Empire of Legends, Catlandia and many more
+
+  - icon: undercore-united.webp
+    name: Undercore United
+    link: https://discord.gg/HwHRZZJ
+    banner: undercore-united.png
+    introduction: >
+      I'm MNH48 [...]. I have a large house somewhere hillside on the server, including in-house workshop area and mining area underneath my house.
+    summary:
+      en: Official Discord server for Undercore, a Minetest server with a lot of tech mods, a bit of fantasy, and a lot of lag
+
+  - icon: ifs-minetest-server.webp
+    name: IFS Minetest Server
+    link: private
+    banner: ifs-minetest-server.png
+    introduction: >
+      I'm MNH48 [...]. I'm the one who build many rail infrastructure on the server, and the owner & mayor of Little Japan
+    summary:
+      en: Discord server for IFS (IhrFussel's Server), MMORPG-like survival Minetest server with automatic events based on ingame time and PvP; invite link is given in-game
+
+  - icon: the-world-of-illuna.webp
+    name: The World of Illuna
+    link: https://discord.gg/HKh2Ftf
+    banner: the-world-of-illuna.png
+    introduction: >
+      I'm MNH48 [...]. I play on Illuna TechEth.
+    summary:
+      en: Official Discord server for [The World of Illuna](https://illuna.rocks/), a group of Minetest servers ran by the same person, each with its own highly customized world offering unique experience
+
+  - icon: the-nerdhive.webp
+    name: The NerdHive
+    link: private
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Private Discord server of a bunch of technical-oriented users who have background in Minetest, invitation-only
+
+  - icon: rubens-various-projects.webp
+    name: Ruben's Various Projects
+    link: https://discord.gg/zYjR54b
+    banner: rubens-various-projects.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      Malay demigirl nonbinary from Malaysia (DIY HRT since 14/02/2020)<br/>
+      <br/>
+      I translate stuff to Malay<br/>
+      <https://tl.mnh48.moe/>
+    summary:
+      en: Discord server of projects made by [rubenwardy](https://rubenwardy.com), one of core developer of Minetest; the server mainly revolves around his non-Minetest work such as [Renewed Tab](https://renewedtab.com/), an extension for Chrome and Firefox allowing New Tab page customizable by widgets and setting background

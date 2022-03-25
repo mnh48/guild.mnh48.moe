@@ -1,0 +1,45 @@
+name: Discord
+guild:
+  - icon: discord-developers.gif
+    name: Discord Developers
+    link: https://discord.gg/discord-developers
+    banner: discord.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      I mainly run private Discord bot in my own server, not for public use. I also help translating public bots from English to Malay.
+    summary:
+      en: Official Discord Developers server and everything must be on-topic
+
+  - icon: discord-api.webp
+    name: Discord API
+    link: https://discord.gg/discord-api
+    banner: discord.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      I mainly run private Discord bot in my own server, not for public use. I also help translating public bots from English to Malay.
+    summary:
+      en: “Official unofficial” API server where library and bot developer hangout and help each other
+
+  - icon: discord-testers.webp
+    name: Discord Testers
+    link: https://discord.gg/discord-testers
+    banner: discord.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      I use Discord on Windows, Linux, and Android. I help test new feature or bug-hunting when I have extra free time.
+    summary:
+      en: Official Discord server for Discord bug-hunting, it's locked behind quiz so please read [this](https://support.discord.com/hc/en-us/articles/360046057772) before trying to join
+
+  - icon: discord-town-hall.webp
+    name: Discord Town Hall
+    link: https://discord.gg/discord-townhall
+    banner: discord.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      I hope Discord will be available in Malay language soon so that I can bring more friends in my country onboard the Discord train.
+    summary:
+      en: Official Discord Town Hall server, the official place for anyone who loves Discord

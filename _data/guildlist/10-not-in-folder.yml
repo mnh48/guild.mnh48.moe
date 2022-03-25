@@ -1,0 +1,48 @@
+name: Servers not in folder
+guild:
+  - icon: myvtubers-community-server.webp
+    name: MyVTubers Community Server
+    link: https://discord.gg/cscMj7F
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Community server for Malaysia-based Vtubers, also welcoming everyone from all around the world, even if you're not a vtuber
+
+  - icon: myandori.webp
+    name: MYANDORI
+    link: https://discord.gg/E7WtXHF
+    banner: myandori.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️ Malay demigirl nonbinary<br/>
+      <br/>
+      I'm staff member hosting MYANDORI's Minecraft server and set up some of the bots on Discord, including formatting of the bot welcome message
+    summary:
+      en: Community server for Malaysian fan of the BanG Dream! franchise, strictly for Malaysians only
+
+  - icon: geng-shah.webp
+    name: Geng Shah
+    link: private
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Private Discord server for CS230 Bachelor of Computer Science (Hons) students from Universiti Teknologi MARA Shah Alam who participated in [ACM ICPC Malaysia al-Khawarizmi National Programming Contest](https://www.iium.edu.my/acmicpc/) in [2018](https://icpc.global/regionals/finder/Malaysia-National-2018/standings) and [2019](https://icpc.global/regionals/finder/MalaysiaNational-2019/standings)
+
+  - icon: the-mnh48-discord.webp
+    name: The MNH48 Discord
+    link: https://discord.gg/xsZQyGf
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: My Discord server, join it to know what I'm doing, as well as getting latest news around the world
+
+  - icon: mugiwara-ichimi.webp
+    name: Mugiwara Ichimi
+    link: private
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Private Discord server of my friend

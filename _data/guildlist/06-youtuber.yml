@@ -1,0 +1,178 @@
+name: YouTuber
+guild:
+  - icon: global-transit-and-infrastructure-central.webp
+    name: Global Transit and Infrastructure Central
+    link: https://discord.gg/Gezxt9m
+    banner: global-transit-and-infrastructure-central.png
+    introduction: >
+      [she/her] 🏳️‍⚧️ 🇲🇾 Malaysia<br/>
+      Malay demigirl transnonbinary who grew up in Sungai Petani and living in Kuala Lumpur.<br/>
+      Fan of train 🚆, bus 🚍, plane ✈️, ferry ⛴️.
+    summary:
+      en: Originally the Discord server for [RMTransit](https://www.youtube.com/c/RMTransit), a Canadian transit advocate channel, but now it's expanded into multi-creator server for various transit discussion across the world
+
+  - icon: the-rossmann-group.webp
+    name: The Rossman Group
+    link: https://discord.gg/rossmanngroup
+    banner: the-rossmann-group.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      Malay demigirl nonbinary from Malaysia<br/>
+      I'm here to catch news on Right to Repair across the world as it's important, and to see what dumb company do to restrict repair
+    summary:
+      en: Official Discord server for The Rossman Group, the repair group by [Louis Rossmann](https://www.youtube.com/user/rossmanngroup), an advocate of Right to Repair and regularly upload videos related to repairability to his YouTube channel
+
+  - icon: linustechtips.gif
+    name: LinusTechTips
+    link: https://discord.gg/ltt
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Official Discord server for [Linus Tech Tips](https://www.youtube.com/LinusTechTips), one of major technology content creator on YouTube, also streams on [Twitch](https://www.twitch.tv/linustech) and have videos on [FloatPlane](https://www.floatplane.com/channel/linustechtips/home)
+
+  - icon: wrkhrs3.webp
+    name: WRKHRS3
+    link: https://discord.gg/thEU2xj6wZ
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Discord server for Kyle, the YouTuber behind the technology channels [BitWit](https://www.youtube.com/user/AwesomeSauceNews) and [WRKHRS3](https://www.youtube.com/c/WRKHRS3), also streams on Twitch by the name [WRKHRS3](https://www.twitch.tv/wrkhrs3) and have videos on [FloatPlane](https://www.floatplane.com/channel/bitwit_ultra/home)
+
+  - icon: brodies-linux-dumpster-fire.webp
+    name: Brodie's Linux Dumpster Fire
+    link: https://brodierobertson.xyz/discord
+    banner: none
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️ <br/>
+      <br/>
+      Never gonna give you up
+    summary:
+      en: Discord server for [Brodie Robertson](https://www.youtube.com/c/BrodieRobertson), the YouTuber who mainly talk about Linux, coding, and open source software
+
+  - icon: youtube-unsolved.webp
+    name: YouTube Unsolved
+    link: https://discord.gg/T9Mgxa3ueb
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Discord server for YouTube Unsolved series and also the channel that owned it, [TheTekkitRealm](https://www.youtube.com/c/TheTekkitRealm)
+
+  - icon: the-commoditys-server.webp
+    name: The Commodity's Server
+    link: https://discord.gg/m2QJbBcrSg
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Discord server for [The Commodity](https://www.youtube.com/c/TheCommodity), YouTube channel of two American guy sharing cultures around the world
+
+  - icon: strange-parts.gif
+    name: Strange Parts
+    link: https://discord.gg/strangeparts
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Official Discord server for [Strange Parts](https://www.youtube.com/c/StrangeParts), the YouTuber who had made and modified smartphone in China
+
+  - icon: vtube-studio-headquarter.webp
+    name: VTube Studio Headquarter
+    link: https://discord.gg/VTubeStudio
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Official Discord server for [VTube Studio](https://denchisoft.com), a software that enables you to move your virtual YouTuber avatars based on face tracking, available on Steam (desktop), Play Store (Android) and App Store (iOS)
+
+  - icon: virtego-vtuber-fangroup.gif
+    name: VirtEgo VTuber Fangroup
+    link: private
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: VTuber discussion server that spans across multiple franchises and indies, used to be public but it no longer accepting new user
+
+  - icon: virtego-emotes.webp
+    name: VirtEgo - Emotes
+    link: private
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Emoji server for VirtEgo VTuber Fangroup, tied to the other server
+
+  - icon: ai-channel-unofficial.gif
+    name: A.I. Channel Unofficial
+    link: https://discord.gg/kizuna
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Community server discussing videos, songs, streams, and any other contents published by [Kizuna AI](https://www.youtube.com/c/AIChannel) and the other related VTuber under Kizuna AI Inc
+
+  - icon: unofficial-himehina-fan-server.gif
+    name: Unofficial HimeHina Fan Server (｡☌ᴗ☌｡)
+    link: https://discord.gg/AFyBBTK
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Community server discussing videos, songs, streams, and any other contents published by [HIMEHINA](https://www.youtube.com/c/HimeHina)
+
+  - icon: hololive-fan-server.gif
+    name: Hololive Fan Server
+    link: https://discord.gg/holofans
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Community server discussing videos, songs, streams, and any other contents published by any vtubers under the [Hololive](https://en.hololive.tv/) agency
+
+  - icon: holoemotes.webp
+    name: HoloEmotes
+    link: https://discord.gg/NZC2cXy
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Emoji server for Hololive Fan Server
+
+  - icon: holobar.gif
+    name: HoloBar
+    link: https://discord.gg/tnJqZ7c7G8
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: VTuber bar themed server with quite the diverse community, note that it might not be friendly to some people as the way people write in there is quite harsh
+
+  - icon: coalition-live.gif
+    name: Coalition Live
+    link: private
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Server originally made by [Domo Arigathanks](https://www.twitch.tv/domoarigathanks) where most people discuss about Hololive, then it shifted to talking about indie VTuber as Domo started to make interviews and other contents showing indie VTuber, however Domo had left the server and now the server is no longer affiliated and it's no longer opened to public anymore
+
+  - icon: the-anime-man-discord.webp
+    name: The Anime Man Discord
+    link: https://discord.gg/theanimeman
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Community server discussing videos, songs, streams, and any other contents published by [Joey](https://www.youtube.com/c/Joeytheanimeman) of [The Anime Man](https://www.youtube.com/user/TheAn1meMan)
+
+  - icon: paolo-from-tokyo.webp
+    name: Paolo from TOKYO
+    link: https://paolofrom.tokyo/discord
+    banner: none
+    introduction: >
+      *No specific profile*
+    summary:
+      en: Official community Discord server for [Paolo from TOKYO](https://www.youtube.com/paolofromtokyo), the YouTube channel showing the daily life of many Japanese people
