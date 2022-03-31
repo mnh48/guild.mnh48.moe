@@ -1,4 +1,5 @@
 name: Local Stuff
+color: ffcc00
 guild:
   - icon: wikipedia-bahasa-melayu.webp
     name: Wikipedia Bahasa Melayu
@@ -81,7 +82,6 @@ guild:
     name: The MNH48 Emoji
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private Discord server where I test how they looked like before I add them to my main server

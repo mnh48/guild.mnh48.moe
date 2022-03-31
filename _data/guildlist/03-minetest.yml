@@ -1,4 +1,5 @@
 name: Minetest
+color: 79d130
 guild:
   - icon: minetest.webp
     name: Minetest
@@ -50,8 +51,7 @@ guild:
     name: The NerdHive
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private Discord server of a bunch of technical-oriented users who have background in Minetest, invitation-only
 

@@ -1,11 +1,11 @@
 name: BanG Dream!
+color: e5004f
 guild:
   - icon: bang-dream.webp
     name: BanG Dream!
     link: http://discord.gg/ban2dori2
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Discord server for [r/BanGDream](https://www.reddit.com/r/BanGDream/), discussing everything related to the [BanGDream!](https://en.bang-dream.com/) franchise except the game BanG Dream! Girls Band Party, including anime series, live concert performances, and music releases
 
@@ -13,8 +13,7 @@ guild:
     name: BanGDreaming!
     link: https://discord.gg/vxhJppC
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Discord server for [BanGDreaming!](http://bangdreaming.tumblr.com/) Tumblr website, unofficial help blog dedicated to Japanese server of BanG Dream! Girls Band Party and the BanG Dream! franchise
 
@@ -22,8 +21,7 @@ guild:
     name: Bandori.Party!
     link: https://discord.gg/njKRrAg
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Discord server for [Bandori Party](https://bandori.party), website that provide an extended database of information about the game BanG Dream! Girls Band Party and allows you to keep track of your progress in the game
 
@@ -31,8 +29,7 @@ guild:
     name: BanG Dream! Girls Band Party
     link: https://discord.gg/bangdream
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Official Discord server for the game [BanG Dream! Girls Band Party](https://bang-dream-gbp-en.bushiroad.com), discussing the game, not the wider BanG Dream! franchise; mainly focused on Japanese and English game servers, but also have additional channel for players to discuss the Chinese, Taiwanese, Korean servers as well as the offline Nintendo Switch port of the game
 
@@ -40,8 +37,7 @@ guild:
     name: BanG Dream! Emote Overflow
     link: https://discord.gg/Jeb7kfP
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Emoji Discord server for the r/BanGDream Discord server, containing various variations of existing emoji in the main Discord server, also listing various other BanG Dream! emoji servers
 
@@ -49,8 +45,7 @@ guild:
     name: Bandori Seiyuu Emote Server
     link: http://discord.gg/bdhRpGc
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Additional emoji Discord server under BanG Dream! Emote Overflow, mainly emoji of the voice actor of the BanG Dream! franchise
 
@@ -58,8 +53,7 @@ guild:
     name: kasumemes only
     link: https://discord.gg/7MB2mMh
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Additional emoji Discord server under BanG Dream! Emote Overflow, mainly emoji of memes related to and emoji of Toyama Kasumi, the main character in the BanG Dream! franchise
 
@@ -67,8 +61,7 @@ guild:
     name: Neru Emotes
     link: https://discord.gg/q67Ww7w
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Additional emoji Discord server under BanG Dream! Emote Overflow, mainly emoji of characters in BanG Dream! franchise dabbing to the left (hand to the right)
 
@@ -76,8 +69,7 @@ guild:
     name: Neru Dabs Reverse
     link: https://discord.gg/BsjFQCT
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Additional emoji Discord server under BanG Dream! Emote Overflow, mainly emoji of characters in BanG Dream! franchise dabbing to the right (hand to the left)
 
@@ -85,8 +77,7 @@ guild:
     name: BandoYay
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private emoji Discord server, mainly emoji of characters in BanG Dream! franchise being excited and put up both hand in the air
 
@@ -94,8 +85,7 @@ guild:
     name: BanG Dream! Emote Archive
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private emoji Discord server for the r/BanGDream Discord server, containing emoji that was purged from the main Discord server
 
@@ -103,8 +93,7 @@ guild:
     name: just otae
     link: https://discord.gg/x3wU9tqxB6
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Additional emoji Discord server under BanG Dream! Emote Overflow, mainly emoji of Hanazono Tae, one of character in the BanG Dream! franchise
 
@@ -112,8 +101,7 @@ guild:
     name: Arisa Rage
     link: https://discord.gg/dBtxrCK
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Additional emoji Discord server under BanG Dream! Emote Overflow, mainly emoji of Ichigaya Arisa, one of character in the BanG Dream! franchise
 
@@ -121,7 +109,6 @@ guild:
     name: Bushimo Sedang BerCNY
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private Discord server of certain BanG Dream! tiering clan

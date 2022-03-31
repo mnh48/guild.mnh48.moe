@@ -1,11 +1,43 @@
-name: Software, Bots & Niche
+name: Anime, Manga & Developer Stuff
+color: 55cdfc
 guild:
+  - icon: anime-trending.webp
+    name: Anime Trending
+    link: https://discord.gg/HP38uv5
+    banner: anime-trending.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      Malay demigirl nonbinary from Malaysia<br/>
+      <br/>
+      I'm just a casual anime watcher, I only watch anime that I'm interested in when I have free time and the mood to watch anime
+    summary:
+      en: Official Discord server for [Anime Trending](https://anitrendz.net), the leading anime charts featuring Top 10 Anime of the Season of the week and the rankings are based on the votes from actual anime fans
+
+  - icon: lucky-star.webp
+    name: Lucky Star
+    link: https://discord.gg/rTTpWWckxH
+    banner: lucky-star.png
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      Malay demigirl nonbinary from Malaysia<br/>
+      <br/>
+      I'm just here for the Lucky Star emoji
+    summary:
+      en: Official Discord server for [r/luckystar](https://www.reddit.com/r/luckystar) subreddit
+
+  - icon: ohys-raws.webp
+    name: Ohys-Raws
+    link: private
+    banner: none
+    introduction: none
+    summary:
+      en: Support server for Ohys-Raws, an anime fansub group, it's public but I'm not linking it due to questionable legality of content
+
   - icon: premid.webp
     name: PreMiD
     link: https://discord.premid.app/
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Support Discord server for [PreMiD](https://premid.app/), a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status
 
@@ -13,8 +45,7 @@ guild:
     name: Recodive Localization Community
     link: https://discord.gg/4x9rmFRtg4
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Translation Discord server for PreMiD and any future Recodive app
 
@@ -22,8 +53,7 @@ guild:
     name: IFTTT
     link: https://discord.gg/ifttt
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server for [r/IFTTT](https://www.reddit.com/r/ifttt/) subreddit, mostly people helping each other on webhook
 
@@ -31,8 +61,7 @@ guild:
     name: Disy's Hideout
     link: https://discord.djdavid98.art/
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Server of [DJDavid98](https://djdavid98.art/), hobbyist digital artist who loves drawing animals in his free time, who had made online tools such as HammerTime
 
@@ -40,17 +69,15 @@ guild:
     name: HammerTime
     link: https://hammertime.djdavid98.art/discord
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server for [HammerTime](https://hammertime.djdavid98.art/), a tool from DJDavid98 to convert normal readable date into Discord message's chat syntax date format
 
-  - icon: openvfx-the-blender-community.gif
-    name: "OpenVFX: The Blender Community"
+  - icon: blender.gif
+    name: Blender
     link: https://discord.gg/blender
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server discussing everything related to [Blender](https://www.blender.org/), free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games
 
@@ -58,8 +85,7 @@ guild:
     name: VRChat
     link: https://discord.gg/vrchat
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Official Discord server for [VRChat](https://store.steampowered.com/app/438100/VRChat/), an online virtual world platform offering endless collection of social virtual reality experiences by giving the power of creation to its community
 
@@ -67,8 +93,7 @@ guild:
     name: Rainmeter
     link: https://discord.gg/rainmeter
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server discussing everything related to [Rainmeter](https://www.rainmeter.net/), a free and open-source desktop customization utility for Windows allowing you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
 
@@ -76,44 +101,31 @@ guild:
     name: Audacium Server
     link: https://discord.gg/ZH5234Abhb
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server discussing everything related to [Audacium](https://audacium.xyz), an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems, a fork of Audacity
-
-  - icon: genders-sexualities-friends.webp
-    name: Genders, Sexualities, Friends
-    link: https://discord.gg/6tCEvUnky6
-    banner: none
-    introduction: >
-      *No specific profile*
-    summary:
-      en: Community Discord server primarily catering to Transgender, Nonbinary, Genderqueer, and Questioning people; explicitly supportive of all LGBTQ+ identities and of the plural community
-
-  - icon: the-language-exchange-network.webp
-    name: The Language Exchange Network
-    link: https://discord.gg/jxcVmHJ
-    banner: none
-    introduction: >
-      *No specific profile*
-    summary:
-      en: Discord server hub that serve lists of various language learning Discord servers, no chat allowed unless it's about listing your own server or asking question about listed server
 
   - icon: codingame.webp
     name: CodinGame
     link: https://discord.gg/qAKXEEv
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server for [CodinGame](https://www.codingame.com/), a challenge-based training platform for programmers where people can improve their coding skills with fun exercises
+
+  - icon: animekos-ayako.gif
+    name: Animekos | Ayako
+    link: https://discord.gg/CmyGems
+    banner: none
+    introduction: none
+    summary:
+      en: Support server for [Ayako](https://github.com/Larsundso/ayako-v1.5) bot, an anime-related bot
 
   - icon: tatsus-lounge-tm.gif
     name: Tatsu's Lounge [#TM]
     link: https://discord.gg/tatsu
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Official Discord server for [tatsu](https://tatsu.gg) (previously known as Tatsumaki), a social Discord bot with many ranking feature and pet simulator, Tatsugotchi
 
@@ -121,8 +133,7 @@ guild:
     name: "#NadekoLog"
     link: https://discord.nadeko.bot/
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Support Discord server for [NadekoBot](https://nadeko.bot), a general-purpose Discord bot featuring a lot of game, administration tools and fun commands, with its own currency system
 
@@ -130,8 +141,7 @@ guild:
     name: Mirai Bot | 未来ボット
     link: https://discord.gg/rkWPSdu
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Support Discord server for [Mirai Bot](https://mirai.brussell.me), a Discord bot for anime fans, gamers, large communities, and personal use
 
@@ -139,8 +149,7 @@ guild:
     name: MEE6™️ Support
     link: https://discord.gg/mee6
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Support Discord server for [MEE6](https://mee6.xyz), a Discord bot looking to bring great new features to people's Discord server, such as moderation, entertainment, and some utility features
 
@@ -148,8 +157,7 @@ guild:
     name: R. Danny
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Support Discord server of [R. Danny](https://github.com/Rapptz/RoboDanny), a bot that aids in moderation and has Splatoon related stuff, the bot is no longer updated and [waiting to die](https://gist.github.com/Rapptz/99cf4c1ab8b5ce584e2bf0b7ba88d5f8); the bot is made by the author of [discord.py](https://discordpy.readthedocs.io/en/stable/) which is also [no longer updated](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1); link to the Discord server is no longer public
 
@@ -157,35 +165,31 @@ guild:
     name: Wolfia Lounge
     link: https://discord.gg/nvcfX3q
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Community Discord server for [Wolfia](https://wolfia.party), a Discord bot for Mafia / Werewolf and similar games
 
-  - icon: blob-hub-studios.gif
-    name: Blob Hub Studios
-    link: https://discord.gg/yATKMY8
+  - icon: nana.webp
+    name: Nana
+    link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
-      en: Discord server having a lot of unique blob emojis to be used in other servers with Discord Nitro subscription, also listing various other blob emoji Discord servers
+      en: Support server for Nana bot, a bot that parse a certain adult manga website, it's public but I'm not linking it due to sensitive content
 
-  - icon: blob-cats-1.gif
-    name: Blob Cats 1
-    link: https://discord.gg/caYNfnv
+  - icon: hentai-desu.gif
+    name: 🔞Hentai Desu
+    link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
-      en: Discord server having many blob cats emoji to be used in other servers with Discord Nitro subscription
+      en: Community server discussing adult anime content, it's public but I'm not linking it due to sensitive content
 
   - icon: akek-hunters.gif
     name: Akek Hunters
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: New Discord server from Gimpy while waiting to see if his original Discord server that got hijacked could be retrieved again through Discord support, not open to public
 
@@ -193,7 +197,6 @@ guild:
     name: ilysm
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Discord server from Gimpy that got hijacked and renamed multiple times, originally known as Global Emote Hunters before renamed to Akek Hunters when the [GameWisp global emote integration got removed from Discord](https://www.reddit.com/r/discordapp/comments/im2r80/is_this_legit_global_emotes_shutting_down_1031/) and before it got hijacked; all existing invite links are deleted during the hijack and so there's no way for new people to get in there

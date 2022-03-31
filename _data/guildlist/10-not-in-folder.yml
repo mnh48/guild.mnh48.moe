@@ -1,11 +1,14 @@
 name: Servers not in folder
+color: ffffff
 guild:
   - icon: myvtubers-community-server.webp
     name: MyVTubers Community Server
     link: https://discord.gg/cscMj7F
     banner: none
     introduction: >
-      *No specific profile*
+      Akan datang.™<br/>
+      ™اکن داتڠ<br/>
+      Coming soon.™
     summary:
       en: Community server for Malaysia-based Vtubers, also welcoming everyone from all around the world, even if you're not a vtuber
 
@@ -24,8 +27,7 @@ guild:
     name: Geng Shah
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private Discord server for CS230 Bachelor of Computer Science (Hons) students from Universiti Teknologi MARA Shah Alam who participated in [ACM ICPC Malaysia al-Khawarizmi National Programming Contest](https://www.iium.edu.my/acmicpc/) in [2018](https://icpc.global/regionals/finder/Malaysia-National-2018/standings) and [2019](https://icpc.global/regionals/finder/MalaysiaNational-2019/standings)
 
@@ -33,8 +35,7 @@ guild:
     name: The MNH48 Discord
     link: https://discord.gg/xsZQyGf
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: My Discord server, join it to know what I'm doing, as well as getting latest news around the world
 
@@ -42,7 +43,6 @@ guild:
     name: Mugiwara Ichimi
     link: private
     banner: none
-    introduction: >
-      *No specific profile*
+    introduction: none
     summary:
       en: Private Discord server of my friend

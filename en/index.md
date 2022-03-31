@@ -45,6 +45,11 @@ ul[data-title]::before {
   padding: 4px;
   font-size: 1.2em;
 }
+{%- for folder in site.data.guildlist %}
+#{{folder[0] | slice: 3, folder[0].size}}-table {
+  border: 2px solid #{{folder[1].color}};
+}
+{%- endfor %}
 </style>
 
 
@@ -74,7 +79,7 @@ Shown below is the default banner and introduction on my global profile. It's wh
 
 - [Server List](#server-list)
 {%- for folder in site.data.guildlist %}
-  - [{{folder[1].name}}](#{{folder[0]}})
+  - [{{folder[1].name}}](#{{folder[0] | slice: 3, folder[0].size}})
 {%- endfor %}
 {: .toc id="toc" data-title="Table of Content"}
 
@@ -84,17 +89,17 @@ Shown below is the default banner and introduction on my global profile. It's wh
 
 These are Discord servers that I had joined. You can join any of the public servers if you want to contact me, or if you just find it interesting and intrigued to see what the environment is on any specific server. 
 
-The servers listed are separated by the folder that contained them, with the heading being the folder title, except the servers in the last section titled "Servers not in folder" where they are put on their own without being contained in any folder.
+The servers listed are separated by the folder that contained them, except the servers in the last section titled "Servers not in folder" where they are put on their own without being contained in any folder. The header of each table section (except last section) correspond to the folder's name whereas the outer table border's colour correspond to the folder's colour.
 
-This list is updated on 25&nbsp;March&nbsp;2022&nbsp;(UTC+8).
+This list is updated on 31&nbsp;March&nbsp;2022&nbsp;(UTC+8).
 
 
 &nbsp;
 
 
 {%- for folder in site.data.guildlist %}
-<h3 id="{{folder[0]}}">{{ folder[1].name }}</h3>
-<table id="{{folder[0]}}-table" class="guildtable">
+<h3 id="{{folder[0] | slice: 3, folder[0].size}}">{{ folder[1].name }}</h3>
+<table id="{{folder[0] | slice: 3, folder[0].size}}-table" class="guildtable">
   <tr>
     <th>Server<br/>Icon</th>
     <th>Server<br/>Name</th>
@@ -120,7 +125,13 @@ This list is updated on 25&nbsp;March&nbsp;2022&nbsp;(UTC+8).
     *No specific banner*
     {%- endif -%}
     </td>
-    <td markdown="span">{{entry.introduction}}</td>
+    <td markdown="span">
+    {%- if entry.introduction != "none" -%}
+    {{entry.introduction}}
+    {%- else -%}
+    *No specific profile*
+    {%- endif -%}
+    </td>
   </tr>
   {%- endfor -%}
 </table>
