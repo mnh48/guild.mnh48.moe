@@ -1,5 +1,6 @@
 name: Transit, Gender & Specific Niche
 color: f7a8b8
+order: 5
 guild:
   - icon: global-transit-and-infrastructure-central.webp
     name: Global Transit and Infrastructure Central

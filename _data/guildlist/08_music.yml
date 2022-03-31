@@ -1,5 +1,6 @@
 name: Music & Rhythm Games
 color: 39c5bb
+order: 8
 guild:
   - icon: sekai-viewer.webp
     name: Sekai Viewer

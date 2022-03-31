@@ -1,5 +1,6 @@
 name: Local Stuff
 color: ffcc00
+order: 2
 guild:
   - icon: wikipedia-bahasa-melayu.webp
     name: Wikipedia Bahasa Melayu

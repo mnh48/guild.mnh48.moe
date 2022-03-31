@@ -1,5 +1,6 @@
 name: "Cities: Skylines & Other Games"
 color: 141e31
+order: 4
 guild:
   - icon: biffa-plays.gif
     name: Biffa Plays

@@ -1,5 +1,6 @@
 name: YouTuber & Vtuber
 color: ff00db
+order: 7
 guild:
   - icon: linustechtips.gif
     name: LinusTechTips

@@ -1,5 +1,6 @@
 name: Minetest
 color: 79d130
+order: 3
 guild:
   - icon: minetest.webp
     name: Minetest

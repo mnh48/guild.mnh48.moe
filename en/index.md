@@ -8,6 +8,7 @@ redirect_from: "/"
 ---
 
 
+{%- assign limit = site.data.guildlist.size -%}
 <style>
 .guildtable {
   line-height:1.2em;
@@ -45,10 +46,15 @@ ul[data-title]::before {
   padding: 4px;
   font-size: 1.2em;
 }
-{%- for folder in site.data.guildlist %}
+
+{%- for i in (1..limit) -%}
+  {%- for folder in site.data.guildlist -%}
+    {%- if i == folder[1].order %}
 #{{folder[0] | slice: 3, folder[0].size}}-table {
   border: 2px solid #{{folder[1].color}};
 }
+    {%- endif -%}
+  {%- endfor -%}
 {%- endfor %}
 </style>
 
@@ -78,8 +84,12 @@ Shown below is the default banner and introduction on my global profile. It's wh
 
 
 - [Server List](#server-list)
-{%- for folder in site.data.guildlist %}
+{%- for i in (1..limit) -%}
+  {%- for folder in site.data.guildlist -%}
+    {%- if i == folder[1].order %}
   - [{{folder[1].name}}](#{{folder[0] | slice: 3, folder[0].size}})
+    {%- endif -%}
+  {%- endfor -%}
 {%- endfor %}
 {: .toc id="toc" data-title="Table of Content"}
 
@@ -97,7 +107,9 @@ This list is updated on 31&nbsp;March&nbsp;2022&nbsp;(UTC+8).
 &nbsp;
 
 
-{%- for folder in site.data.guildlist %}
+{%- for i in (1..limit) -%}
+  {%- for folder in site.data.guildlist -%}
+    {%- if i == folder[1].order %}
 <h3 id="{{folder[0] | slice: 3, folder[0].size}}">{{ folder[1].name }}</h3>
 <table id="{{folder[0] | slice: 3, folder[0].size}}-table" class="guildtable">
   <tr>
@@ -136,5 +148,6 @@ This list is updated on 31&nbsp;March&nbsp;2022&nbsp;(UTC+8).
   {%- endfor -%}
 </table>
 <br/>
+    {%- endif -%}
+  {%- endfor -%}
 {%- endfor -%}
-

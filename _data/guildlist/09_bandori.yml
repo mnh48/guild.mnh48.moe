@@ -1,5 +1,6 @@
 name: BanG Dream!
 color: e5004f
+order: 9
 guild:
   - icon: bang-dream.webp
     name: BanG Dream!

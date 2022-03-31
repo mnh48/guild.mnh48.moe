@@ -1,5 +1,6 @@
 name: Discord
 color: 5539cc
+order: 1
 guild:
   - icon: discord-developers.gif
     name: Discord Developers

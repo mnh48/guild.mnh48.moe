@@ -1,5 +1,6 @@
 name: Anime, Manga & Developer Stuff
 color: 55cdfc
+order: 6
 guild:
   - icon: anime-trending.webp
     name: Anime Trending

@@ -1,5 +1,6 @@
 name: Servers not in folder
 color: ffffff
+order: 10
 guild:
   - icon: myvtubers-community-server.webp
     name: MyVTubers Community Server
