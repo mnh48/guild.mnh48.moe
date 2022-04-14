@@ -48,6 +48,14 @@ guild:
     summary:
       en: Official Discord server for [The World of Illuna](https://illuna.rocks/), a group of Minetest servers ran by the same person, each with its own highly customized world offering unique experience
 
+  - icon: windows-taskbar-r-place.webp
+    name: Windows Taskbar /r/place
+    link: https://discord.gg/eDUuJYhjZY
+    banner: none
+    introduction: none
+    summary:
+      en: Discord server hub that coordinates building of Windows taskbar on r/place canvas, I'm there as part of Minetest team after someone else tries to negotiate on having a space to build Minetest logo on the taskbar
+
   - icon: the-nerdhive.webp
     name: The NerdHive
     link: private

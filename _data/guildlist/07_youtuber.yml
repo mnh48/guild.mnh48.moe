@@ -18,6 +18,17 @@ guild:
     summary:
       en: Discord server for Kyle, the YouTuber behind the technology channels [BitWit](https://www.youtube.com/user/AwesomeSauceNews) and [WRKHRS3](https://www.youtube.com/c/WRKHRS3), also streams on Twitch by the name [WRKHRS3](https://www.twitch.tv/wrkhrs3) and have videos on [FloatPlane](https://www.floatplane.com/channel/bitwit_ultra/home)
 
+  - icon: brodies-linux-dumpster-fire.webp
+    name: Brodie's Linux Dumpster Fire
+    link: https://brodierobertson.xyz/discord
+    banner: none
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️ <br/>
+      <br/>
+      Never gonna give you up
+    summary:
+      en: Discord server for [Brodie Robertson](https://www.youtube.com/c/BrodieRobertson), the YouTuber who mainly talk about Linux, coding, and open source software
+
   - icon: the-rossmann-group.webp
     name: The Rossman Group
     link: https://discord.gg/rossmanngroup
@@ -29,16 +40,21 @@ guild:
     summary:
       en: Official Discord server for The Rossman Group, the repair group by [Louis Rossmann](https://www.youtube.com/user/rossmanngroup), an advocate of Right to Repair and regularly upload videos related to repairability to his YouTube channel
 
-  - icon: brodies-linux-dumpster-fire.webp
-    name: Brodie's Linux Dumpster Fire
-    link: https://brodierobertson.xyz/discord
+  - icon: hardwarehaven.webp
+    name: HardwareHaven
+    link: https://discord.gg/25a6qVdSMh
     banner: none
-    introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️ <br/>
-      <br/>
-      Never gonna give you up
+    introduction: none
     summary:
-      en: Discord server for [Brodie Robertson](https://www.youtube.com/c/BrodieRobertson), the YouTuber who mainly talk about Linux, coding, and open source software
+      en: Discord server of the YouTube channel [HardwareHaven](https://www.youtube.com/c/HardwareHaven) who tinkers with things like older computers, programming, networking, and many other things
+
+  - icon: diy-perks.webp
+    name: DIY Perks
+    link: https://diyperks.com/discord-server
+    banner: none
+    introduction: none
+    summary:
+      en: Discord server of the YouTube channel [DIY Perks](https://www.youtube.com/c/DIYPerks) who do a lot of interesting DIY projects on a variety of topics
 
   - icon: youtube-unsolved.webp
     name: YouTube Unsolved

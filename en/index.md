@@ -101,7 +101,7 @@ These are Discord servers that I had joined. You can join any of the public serv
 
 The servers listed are separated by the folder that contained them, except the servers in the last section titled "Servers not in folder" where they are put on their own without being contained in any folder. The header of each table section (except last section) correspond to the folder's name whereas the outer table border's colour correspond to the folder's colour.
 
-This list is updated on 31&nbsp;March&nbsp;2022&nbsp;(UTC+8).
+If any of the links on the list not working, please tell me by joining my server or any other server listed and then send direct message to me. This list is last updated on 15&nbsp;April&nbsp;2022&nbsp;(UTC+8).
 
 
 &nbsp;
