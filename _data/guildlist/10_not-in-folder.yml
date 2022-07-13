@@ -1,8 +1,10 @@
 name: Servers not in folder
+name-ms: Pelayan di luar folder
+name-ms-Arab: ڤلاين دلوار فولدر
 color: ffffff
 order: 10
 guild:
-  - icon: myvtubers-community-server.webp
+  - icon: myvtubers-community-server.gif
     name: MyVTubers Community Server
     link: https://discord.gg/cscMj7F
     banner: none
@@ -12,6 +14,8 @@ guild:
       Coming soon.™
     summary:
       en: Community server for Malaysia-based Vtubers, also welcoming everyone from all around the world, even if you're not a vtuber
+      ms: Pelayan komuniti untuk vtuber berasaskan Malaysia, juga mengalu-alukan semua orang dari serata dunia, walaupun jika anda bukan vtuber
+      ms-Arab: ڤلاين کومونيتي اونتوق ۏيتيوبر براساسکن مليسيا⹁ جوݢ مݞالو-الوکن سموا اورڠ دري سرات دنيا⹁ والاوڤون جک اندا بوکن ۏيتيوبر
 
   - icon: myandori.webp
     name: MYANDORI
@@ -23,6 +27,8 @@ guild:
       I'm staff member hosting MYANDORI's Minecraft server and set up some of the bots on Discord, including formatting of the bot welcome message
     summary:
       en: Community server for Malaysian fan of the BanG Dream! franchise, strictly for Malaysians only
+      ms: Pelayan komuniti untuk peminat francais Bandori! dari Malaysia, terhad untuk orang Malaysia sahaja
+      ms-Arab: ڤلاين کومونيتي اونتوق ڤمينت فرنچاٴيس بندوري! دري مليسيا⹁ ترحد اونتوق اورڠ مليسيا سهاج
 
   - icon: geng-shah.webp
     name: Geng Shah
@@ -31,6 +37,8 @@ guild:
     introduction: none
     summary:
       en: Private Discord server for CS230 Bachelor of Computer Science (Hons) students from Universiti Teknologi MARA Shah Alam who participated in [ACM ICPC Malaysia al-Khawarizmi National Programming Contest](https://www.iium.edu.my/acmicpc/) in [2018](https://icpc.global/regionals/finder/Malaysia-National-2018/standings) and [2019](https://icpc.global/regionals/finder/MalaysiaNational-2019/standings)
+      ms: Pelayan Discord peribadi untuk pelajar CS230 Sarjana Muda Sains Komputer (Kepujian) dari Universiti Teknologi MARA Shah Alam yang menyertai [Pertandingan Pengaturcaraan Kebangsaan al-Khawarizmi Malaysia ACM ICPC](https://www.iium.edu.my/acmicpc/) pada tahun [2018](https://icpc.global/regionals/finder/Malaysia-National-2018/standings) dan [2019](https://icpc.global/regionals/finder/MalaysiaNational-2019/standings)
+      ms-Arab: ڤلاين ديسکورد ڤريبادي اونتوق ڤلاجر CS230 [سي.ايس.دوا.تيݢ.کوسوڠ] سرجان مودا ساٴين‌س کومڤوتر (کڤوجين) دري اونيۏرسيتي تيکنولوݢي مارا شاه عالم يڠ مڽرتاٴي [ڤرتنديڠن ڤڠاتورچاراٴن کبڠساٴن الخوارزمي مليسيا أي.سي.عيم اٴي.سي.ڤي.سي](https://www.iium.edu.my/acmicpc/) ڤد تاهون [2018](https://icpc.global/regionals/finder/Malaysia-National-2018/standings) دان [2019](https://icpc.global/regionals/finder/MalaysiaNational-2019/standings)
 
   - icon: the-mnh48-discord.webp
     name: The MNH48 Discord
@@ -39,6 +47,8 @@ guild:
     introduction: none
     summary:
       en: My Discord server, join it to know what I'm doing, as well as getting latest news around the world
+      ms: Pelayan Discord saya, sertai untuk tahu apa yang saya lakukan, dan juga dapatkan berita terkini serata dunia
+      ms-Arab: ڤلاين ديسکورد ساي⹁ سرتاٴي اونتوق تاهو اڤ يڠ ساي لاکوکن⹁ دان جوݢ داڤتکن بريتا ترکيني سرات دنيا
 
   - icon: mugiwara-ichimi.webp
     name: Mugiwara Ichimi
@@ -47,3 +57,5 @@ guild:
     introduction: none
     summary:
       en: Private Discord server of my friend
+      ms: Pelayan Discord peribadi kawan saya
+      ms-Arab: ڤلاين ديسکورد ڤريبادي کاون ساي

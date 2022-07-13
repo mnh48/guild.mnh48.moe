@@ -39,7 +39,7 @@ redirect_from: "/"
   border-bottom-style: none;
   margin-bottom: 6px;
 }
-ul[data-title]::before {
+.toc ul[data-title]::before {
   content: attr(data-title);
   display: block;
   font-weight: bold;
@@ -97,11 +97,13 @@ Shown below is the default banner and introduction on my global profile. It's wh
 ## Server List
 {: style="clear: none;"}
 
-These are Discord servers that I had joined. You can join any of the public servers if you want to contact me, or if you just find it interesting and intrigued to see what the environment is on any specific server. 
+These are Discord servers that I had joined. You can join any of the public servers if you want to contact me, or if you just find it interesting and intrigued to see what the environment is on any specific server.
 
 The servers listed are separated by the folder that contained them, except the servers in the last section titled "Servers not in folder" where they are put on their own without being contained in any folder. The header of each table section (except last section) correspond to the folder's name whereas the outer table border's colour correspond to the folder's colour.
 
-If any of the links on the list not working, please tell me by joining my server or any other server listed and then send direct message to me. This list is last updated on 15&nbsp;April&nbsp;2022&nbsp;(UTC+8).
+As the profile introductions are written as-is and matched with the actual text used, some of them are not in English, and no translations will be given for those introductions as it will take too much space of the site.
+
+If any of the links on the list not working, please tell me by joining my server or any other server listed and then send direct message to me. This list is last updated on 14&nbsp;July&nbsp;2022&nbsp;(UTC+8).
 
 
 &nbsp;

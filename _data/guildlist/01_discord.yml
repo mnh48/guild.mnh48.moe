@@ -1,8 +1,9 @@
 name: Discord
+name-ms-Arab: ديسکورد
 color: 5539cc
 order: 1
 guild:
-  - icon: discord-developers.gif
+  - icon: discord-developers.webp
     name: Discord Developers
     link: https://discord.gg/discord-developers
     banner: discord.png
@@ -12,6 +13,8 @@ guild:
       I mainly run private Discord bot in my own server, not for public use. I also help translating public bots from English to Malay.
     summary:
       en: Official Discord Developers server and everything must be on-topic
+      ms: Pelayan Pembangun Discord rasmi dan semua benda mestilah ikut topik
+      ms-Arab: ڤلاين ڤمباڠون ديسکورد رسمي دان سموا بندا مستيله ايکوت توڤيک
 
   - icon: discord-api.webp
     name: Discord API
@@ -23,6 +26,8 @@ guild:
       I mainly run private Discord bot in my own server, not for public use. I also help translating public bots from English to Malay.
     summary:
       en: “Official unofficial” API server where library and bot developer hangout and help each other
+      ms: Pelayan API “Tidak rasmi yang rasmi” di mana pembangun bot dan pustaka melepak dan tolong-menolong
+      ms-Arab: ڤلاين أي.ڤي.اٴي ”تيدق رسمي يڠ رسمي‟ دمان ڤمباڠون بوت دان ڤوستاک مليڤق دان تولوڠ-منولوڠ
 
   - icon: discord-testers.webp
     name: Discord Testers
@@ -34,6 +39,8 @@ guild:
       I use Discord on Windows, Linux, and Android. I help test new feature or bug-hunting when I have extra free time.
     summary:
       en: Official Discord server for Discord bug-hunting, it's locked behind quiz so please read [this](https://support.discord.com/hc/en-us/articles/360046057772) before trying to join
+      ms: Pelayan Discord rasmi buat pemburuan pepijat Discord, ia dikunci di belakang kuiz jadi sila baca [ini](https://support.discord.com/hc/en-us/articles/360046057772) (bahasa Inggeris) sebelum cuba untuk sertai
+      ms-Arab: ڤلاين ديسکورد رسمي بوات ڤمبوروان ڤڤيجت ديسکورد⹁ اي دکونچي دبلاکڠ کوٴيز جادي سيلا باچ [اين](https://support.discord.com/hc/en-us/articles/360046057772) (بهاس ايڠݢريس) سبلوم چوبا اونتوق سرتاٴي
 
   - icon: discord-town-hall.webp
     name: Discord Town Hall
@@ -45,3 +52,5 @@ guild:
       I hope Discord will be available in Malay language soon so that I can bring more friends in my country onboard the Discord train.
     summary:
       en: Official Discord Town Hall server, the official place for anyone who loves Discord
+      ms: Pelayan Dewan Bandar Discord yang rasmi, tempat rasmi untuk sesiapa yang menyayangi Discord
+      ms-Arab: ڤلاين ديوان باندر ديسکورد يڠ رسمي⹁ تمڤت رسمي اونتوق سسياڤا يڠ مڽايڠي ديسکورد
