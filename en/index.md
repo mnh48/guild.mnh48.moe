@@ -103,7 +103,7 @@ The servers listed are separated by the folder that contained them, except the s
 
 As the profile introductions are written as-is and matched with the actual text used, some of them are not in English, and no translations will be given for those introductions as it will take too much space of the site.
 
-If any of the links on the list not working, please tell me by joining my server or any other server listed and then send direct message to me. This list is last updated on 14&nbsp;July&nbsp;2022&nbsp;(UTC+8).
+If any of the links on the list not working, please tell me by joining my server or any other server listed and then send direct message to me. This list is last updated on {{ site.data.html.update.en | replace: " ", "&nbsp;" }}.
 
 
 &nbsp;

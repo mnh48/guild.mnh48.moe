@@ -102,7 +102,7 @@ Pelayan yang disenaraikan dipisahkan berdasarkan folder yang mengandungi pelayan
 
 Memandangkan pengenalan profil ditulis sebagaimana adanya dan sepadan dengan tulisan sebenar yang digunakan, sesetengahnya bukan dalam bahasa Melayu, dan tiada terjemahan akan diberikan buat pengenalan tersebut kerana ia akan memakan ruang di laman ini.
 
-Sekiranya ada pautan di bawah yang tidak berfungsi, sila beritahu saya dengan menyertai pelayan saya atau mana-mana pelayan lain yang tersenarai dan hantar mesej peribadi kepada saya. Senarai ini dikemaskini buat kali terakhir pada 14&nbsp;Julai&nbsp;2022&nbsp;(UTC+8).
+Sekiranya ada pautan di bawah yang tidak berfungsi, sila beritahu saya dengan menyertai pelayan saya atau mana-mana pelayan lain yang tersenarai dan hantar mesej peribadi kepada saya. Senarai ini dikemaskini buat kali terakhir pada {{ site.data.html.update.ms | replace: " ", "&nbsp;" }}.
 
 
 &nbsp;
