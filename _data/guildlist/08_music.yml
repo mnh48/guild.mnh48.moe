@@ -61,7 +61,7 @@ guild:
   - icon: project-sekai-colorful-stage.gif
     name: Project Sekai Colorful Stage!
     link: https://discord.gg/projectsekai
-    banner: project-sekai-colorful-stage-feat-hatsune-miku.png
+    banner: project-sekai-colorful-stage.png
     introduction: >
       [she/her] 🇲🇾 🏳️‍⚧️<br/>
       Malay demigirl nonbinary from Malaysia<br/>
@@ -75,7 +75,7 @@ guild:
   - icon: sekaicord-emote-hub.webp
     name: Sekaicord Emote Hub
     link: https://discord.gg/ba39BY2a64
-    banner: project-sekai-colorful-stage-feat-hatsune-miku.png
+    banner: project-sekai-colorful-stage.png
     introduction: >
       [she/her] 🇲🇾 🏳️‍⚧️<br/>
       Malay demigirl nonbinary from Malaysia<br/>
@@ -86,15 +86,15 @@ guild:
       ms: "Pelayan hab emoji buat Sekaicord di mana emoji lebih lama yang dibuang dari pelayan utama akan disimpan. Juga ada senarai pelayan emoji lain yang berkaitan dengan permainan Jepun Project SEKAI: Colorful Stage! feat. Hatsune Miku"
       ms-Arab: "ڤلاين هب ايموجي بوات Sekaicord [سيکاٴيکورد] دمان ايموجي لبيه لاما يڠ دبواڠ دري ڤلاين اوتام اکن دسيمڤن. جوݢ اد سناراي ڤلاين ايموجي لاٴين يڠ برکاٴيتن دڠن ڤرماٴينن جڤون ‪Project SEKAI: Colorful Stage! feat. Hatsune Miku‬ [ڤروجيک سيکاٴي: کالرفول ستيج فيت. هاثوني ميکو]"
 
-  - icon: project-sekai-wiki-miraheze.webp
-    name: Project SEKAI Wiki (Miraheze)
+  - icon: sekaipedia.webp
+    name: Sekaipedia
     link: https://discord.gg/QHT4GtBh7c
     banner: none
     introduction: none
     summary:
-      en: "Official server discussing on the Miraheze wiki for the Japanese game Project SEKAI: Colorful Stage! feat. Hatsune Miku"
-      ms: "Pelayan rasmi yang membincangkan mengenai wiki Miraheze untuk permainan Jepun Project SEKAI: Colorful Stage! feat. Hatsune Miku"
-      ms-Arab: "ڤلاين رسمي يڠ ممبينچڠکن مڠناٴي ويکي Miraheze [ميراهيزي] اونتوق ڤرماٴينن جڤون ‪Project SEKAI: Colorful Stage! feat. Hatsune Miku‬ [ڤروجيک سيکاٴي: کالرفول ستيج فيت. هاثوني ميکو]"
+      en: "Official server discussing Sekaipedia, the Miraheze wiki for the Japanese game Project SEKAI: Colorful Stage! feat. Hatsune Miku"
+      ms: "Pelayan rasmi yang membincangkan mengenai Sekaipedia, wiki Miraheze untuk permainan Jepun Project SEKAI: Colorful Stage! feat. Hatsune Miku"
+      ms-Arab: "ڤلاين رسمي يڠ ممبينچڠکن مڠناٴي Sekaipedia [سيکاٴيڤيديا]⹁ ويکي Miraheze [ميراهيزي] اونتوق ڤرماٴينن جڤون ‪Project SEKAI: Colorful Stage! feat. Hatsune Miku‬ [ڤروجيک سيکاٴي: کالرفول ستيج فيت. هاثوني ميکو]"
 
   - icon: mysekai.webp
     name: MYSekai
