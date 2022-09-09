@@ -24,7 +24,7 @@ needbtt: true
 }
 .guildtable td:nth-child(4) img {
   width: 250px;
-  height: 100px;
+  height: 88px;
 }
 .guildtable td:nth-child(5) {
   font-size: 0.8em;
@@ -70,7 +70,7 @@ Ditunjukkan di bawah ini ialah pengepala dan pengenalan pada profil sejagat saya
   <tr>
     <td style="text-align: center;">
       <div class="defaultimage">
-        <img src="https://img.mnh48.moe/discord/server-banner/default.gif" alt="Pengepala profil lalai buat Yaya MNH48" style="width: 250px; height: 168px; position: relative; top: 50%; transform: translateY(-50%);">
+        <img src="https://img.mnh48.moe/discord/server-banner/default.gif" alt="Pengepala profil lalai buat Yaya MNH48" style="width: 283px; height: 100px; position: relative; top: 50%; transform: translateY(-50%);">
       </div>
     </td>
     <td style="text-align: left; line-height: 1.2em; font-size: 0.8em;" markdown="span">
