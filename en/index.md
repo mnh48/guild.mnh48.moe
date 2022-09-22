@@ -3,6 +3,9 @@ title: MNH48 Guild
 description: List of Discord servers that Yaya MNH48 had joined.
 lang: en
 layout: article
+hasENG: true
+hasRMI: true
+hasJWI: true
 needbtt: true
 redirect_from: "/"
 ---

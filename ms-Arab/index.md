@@ -3,6 +3,9 @@ title: ڤرسأيکتن MNH48
 description: سناراي ڤلاين ديسکورد يڠ يايا MNH48 تله سرتاٴي.
 lang: ms-Arab
 layout: article
+hasENG: true
+hasRMI: true
+hasJWI: true
 needbtt: true
 ---
 

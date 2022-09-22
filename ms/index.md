@@ -3,6 +3,9 @@ title: Perseikatan MNH48
 description: Senarai pelayan Discord yang Yaya MNH48 telah sertai.
 lang: ms
 layout: article
+hasENG: true
+hasRMI: true
+hasJWI: true
 needbtt: true
 ---
 

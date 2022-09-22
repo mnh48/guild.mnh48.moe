@@ -5,6 +5,7 @@ twitter_username: yayamnh48
 github_username: mnh48
 youtube_link: https://www.youtube.com/channel/UCnbL8SM08ViV43pZP5UuEhw/
 timezone: Asia/Kuala_Lumpur
+site_domain: guild.mnh48.moe
 branch: main
 repository: mnh48/guild.mnh48.moe
 remote_theme: mnh48/mnh48moe-theme
