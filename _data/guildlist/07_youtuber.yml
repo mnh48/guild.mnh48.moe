@@ -1,6 +1,7 @@
-name: YouTuber & Vtuber
-name-ms-Arab: يوتيوبر دان ۏيتيوبر
-color: ff00db
+name: YouTuber
+name-ms: Penggiat YouTube
+name-ms-Arab: ڤڠݢيات يوتيوب
+color: ff0004
 order: 7
 guild:
   - icon: linustechtips.gif
@@ -69,6 +70,32 @@ guild:
       ms: Pelayan buat saluran YouTube [DIY Perks](https://www.youtube.com/c/DIYPerks) yang membuat pelbagai projek DIY (buat sendiri) dari berbagai topik berlainan
       ms-Arab: ڤلاين بوات سالورن يوتيوب [DIY Perks](https://www.youtube.com/c/DIYPerks) [دي.اٴي.واي.ڤرک‌س] يڠ ممبوات ڤلباݢاي ڤروجيک دي.اٴي.واي (بوات سنديري) دري برباݢاي توڤيک برلاٴينن
 
+  - icon: jays-tech-vault.webp
+    name: Jay's Tech Vault
+    link: https://discord.gg/Rggu7QsvPc
+    banner: none
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      Malay demigirl nonbinary from Malaysia<br/>
+      Tech enthusiast
+    summary:
+      en: Official server for the YouTube channel [Jays Tech Vault](https://www.youtube.com/c/JaysTechVault)
+      ms: Pelayan rasmi untuk saluran YouTube [Jays Tech Vault](https://www.youtube.com/c/JaysTechVault)
+      ms-Arab: ڤلاين رسمي اونتوق سالورن يوتيوب [Jays Tech Vault](https://www.youtube.com/c/JaysTechVault) [جيس تيک ۏول‌ت]
+
+  - icon: avience.webp
+    name: Avience
+    link: https://discord.gg/XcXzFxevX3
+    banner: none
+    introduction: >
+      [she/her] 🇲🇾 🏳️‍⚧️<br/>
+      Malay demigirl nonbinary from Malaysia<br/>
+      Casual Minecraft player
+    summary:
+      en: Server for the Minecraft server Avience, owned by Jay from the YouTube channel [Jays Tech Vault](https://www.youtube.com/c/JaysTechVault)
+      ms: Pelayan untuk pelayan Minecraft bernama Avience, dimiliki oleh Jay dari saluran YouTube [Jays Tech Vault](https://www.youtube.com/c/JaysTechVault)
+      ms-Arab: ڤلاين اونتوق ڤلاين ماٴينکرف‌ت برنام Avience [ايۏيئن‌س]⹁ دميليقي اوليه Jay [جي] دري سالورن يوتيوب [Jays Tech Vault](https://www.youtube.com/c/JaysTechVault) [جيس تيک ۏول‌ت]
+
   - icon: youtube-unsolved.webp
     name: YouTube Unsolved
     link: https://discord.gg/T9Mgxa3ueb
@@ -98,96 +125,6 @@ guild:
       en: Official server for [Strange Parts](https://www.youtube.com/c/StrangeParts), the YouTuber who had made and modified smartphone in China
       ms: Pelayan rasmi untuk [Strange Parts](https://www.youtube.com/c/StrangeParts), YouTuber yang pernah membuat dan mengubahsuai telefon pintar di China
       ms-Arab: ڤلاين رسمي اونتوق [Strange Parts](https://www.youtube.com/c/StrangeParts) [سترين‌ج ڤرت‌س]⹁ يوتيوبر يڠ ڤرنه ممبوات دان مڠوبهسواي تيليفون ڤينتر دچاٴينا
-
-  - icon: vtube-studio-headquarters.webp
-    name: VTube Studio Headquarters
-    link: https://discord.gg/VTubeStudio
-    banner: none
-    introduction: none
-    summary:
-      en: Official server for [VTube Studio](https://denchisoft.com), a software that enables you to move your virtual YouTuber avatars based on face tracking, available on Steam (desktop), Play Store (Android) and App Store (iOS)
-      ms: Pelayan rasmi untuk [VTube Studio](https://denchisoft.com), sebuah perisian yang membolehkan anda menggerakkan avatar YouTuber maya anda berdasarkan penjejakan muka, tersedia di Steam (atas meja), Play Store (Android) dan App Store (iOS)
-      ms-Arab: ڤلاين رسمي اونتوق [VTube Studio](https://denchisoft.com) [ۏيتيوب ستوديو]⹁ سبواه ڤرايسين يڠ ممبوليهکن اندا مڠݢرقکن اۏاتر يوتيوبر ماي اندا برداسرکن ڤنججقن موک⹁ ترسديا دSteam [ستيم] (اتس ميجا)⹁ Play Store [ڤلي ستور] (Android [ايندرويد]) دان App Store [ايڤ ستور] (iOS [اٴي.او.ايس])
-
-  - icon: virtego-vtuber-fangroup.gif
-    name: VirtEgo VTuber Fangroup
-    link: private
-    banner: none
-    introduction: none
-    summary:
-      en: VTuber discussion server that spans across multiple franchises and indies, used to be public but it no longer accepting new user
-      ms: Pelayan perbincangan VTuber yang menjangkaui pelbagai francais dan juga yang bebas, pelayan ini pernah dibuka kepada awam tetapi kini sudah tidak menerima pengguna baharu
-      ms-Arab: ڤلاين ڤربينچڠن ۏيتيوب يڠ منجاڠکاوي ڤلباݢاي فرنچاٴيس دان جوݢ يڠ بيبس⹁ ڤلاين اين ڤرنه دبوک کڤد عوام تتاڤي کيني سوده تيدق منريما ڤڠݢونا بهارو
-
-  - icon: virtego-emotes.webp
-    name: VirtEgo - Emotes
-    link: private
-    banner: none
-    introduction: none
-    summary:
-      en: Emoji server for VirtEgo VTuber Fangroup, tied to the other server
-      ms: Pelayan emoji untuk VirtEgo VTuber Fangroup, diikat ke pelayan tersebut
-      ms-Arab: ڤلاين ايموجي اونتوق VirtEgo VTuber Fangroup [ۏرتيݢو ۏيتيوبر فينݢروڤ]⹁ دأيکت کڤلاين ترسبوت
-
-  - icon: ai-channel-unofficial.gif
-    name: A.I. Channel Unofficial
-    link: https://discord.gg/kizuna
-    banner: none
-    introduction: none
-    summary:
-      en: Community server discussing videos, songs, streams, and any other contents published by [Kizuna AI](https://www.youtube.com/c/AIChannel) and the other related VTuber under Kizuna AI Inc
-      ms: Pelayan komuniti yang membincangkan video, lagu, strim, dan sebarang kandungan lain yang diterbitkan oleh [Kizuna AI](https://www.youtube.com/c/AIChannel) dan VTuber lain yang berkaitan di bawah Kizuna AI Inc
-      ms-Arab: ڤلاين کومونيتي يڠ ممبينچڠکن ۏيديو⹁ لاݢو⹁ ستريم⹁ دان سبارڠ کندوڠن لاٴين يڠ دتربيتکن اوليه [Kizuna AI](https://www.youtube.com/c/AIChannel) [کيزونا اٴي] دان ۏيتيوبر لاٴين يڠ برکاٴيتن دباوه Kizuna AI Inc [کيزونا اٴي ايڠک]
-
-  - icon: unofficial-himehina-fan-server.gif
-    name: Unofficial HimeHina Fan Server (｡☌ᴗ☌｡)
-    link: https://discord.gg/AFyBBTK
-    banner: none
-    introduction: none
-    summary:
-      en: Community server discussing videos, songs, streams, and any other contents published by [HIMEHINA](https://www.youtube.com/c/HimeHina)
-      ms: Pelayan komuniti yang membincangkan video, lagu, strim, dan sebarang kandungan lain yang diterbitkan oleh [HIMEHINA](https://www.youtube.com/c/HimeHina)
-      ms-Arab: ڤلاين ديسکورد يڠ ممبينچڠکن ۏيديو⹁ لاݢو⹁ ستريم⹁ دان سبارڠ کندوڠن لاٴين يڠ دتربيتکن اوليه [HIMEHINA](https://www.youtube.com/c/HimeHina) [هيميهينا]
-
-  - icon: hololive-fan-server.gif
-    name: Hololive Fan Server
-    link: https://discord.gg/holofans
-    banner: none
-    introduction: none
-    summary:
-      en: Community server discussing videos, songs, streams, and any other contents published by any vtubers under the [Hololive](https://en.hololive.tv/) agency
-      ms: Pelayan komuniti yang membincangkan video, lagu, strim, dan sebarang kandungan lain yang diterbitkan oleh mana-mana vtuber di bawah agensi [Hololive](https://en.hololive.tv/)
-      ms-Arab: ڤلاين کومونيتي يڠ ممبينچڠکن ۏيديو⹁ لاݢو⹁ ستريم⹁ دان سبارڠ کندوڠن لاٴين يڠ دتربيتکن اوليه مان٢ ۏيتيوب دباوه اݢينسي [Hololive](https://en.hololive.tv/) [هولولاٴيۏ]
-
-  - icon: holoemotes.webp
-    name: HoloEmotes
-    link: https://discord.gg/NZC2cXy
-    banner: none
-    introduction: none
-    summary:
-      en: Emoji server for Hololive Fan Server
-      ms: Pelayan emoji untuk Hololive Fan Server
-      ms-Arab: ڤلاين ايموجي اونتوق Hololive Fan Server [هولولاٴيۏ فين سرۏر]
-
-  - icon: holobar.gif
-    name: HoloBar
-    link: https://discord.gg/tnJqZ7c7G8
-    banner: none
-    introduction: none
-    summary:
-      en: VTuber bar themed server with quite the diverse community, note that it might not be friendly to some people as the way people write in there is quite harsh
-      ms: Pelayan bertemakan bar vtuber dengan komuniti yang berbilang, ambil perhatian yang ia mungkin tidak mesra untuk sesetengah orang kerana cara orang menulis di situ agak kasar
-      ms-Arab: ڤلاين برتيماکن بر ۏيتيوب دڠن کومونيتي يڠ بربيلڠ⹁ امبيل ڤرهاتين يڠ اي موڠکين تيدق مسرا اونتوق سستڠه اورڠ کران چارا اورڠ منوليس دسيتو اݢق کاسر
-
-  - icon: coalition-live.gif
-    name: Coalition Live
-    link: private
-    banner: none
-    introduction: none
-    summary:
-      en: Server originally made by [Domo Arigathanks](https://www.twitch.tv/domoarigathanks) where most people discuss about Hololive, then it shifted to talking about indie VTuber as Domo started to make interviews and other contents showing indie VTuber, however Domo had left the server and now the server is no longer affiliated and it's no longer opened to public anymore
-      ms: Pelayan yang asalnya dicipta oleh [Domo Arigathanks](https://www.twitch.tv/domoarigathanks) di mana kebanyakan orang berbincang mengenai Hololive, kemudian ia berubah kepada bercakap mengenai vtuber bebas kerana Domo mula membuat temu ramah dan kandungan lain yang menunjukkan vtuber bebas, tetapi Domo telah meninggalkan pelayan dan sekarang pelayan ini tidak berkait dengannya dan ia juga sudah tidak dibuka kepada awam
-      ms-Arab: ڤلاين يڠ اصلڽ دچيڤتا اوليه [Domo Arigathanks](https://www.twitch.tv/domoarigathanks) [دومو اريݢاثيڠک‌س] دمان کباڽقن اورڠ بربينچڠ مڠناٴي Hololive [هولولاٴيۏ]⹁ کموديان اي براوبه کڤد برچاکڤ مڠناٴي ۏيتيوب بيبس کران Domo [دومو] مولا ممبوات تمو رامه دان کندوڠن لاٴين يڠ منونجوقکن ۏيتيوب بيبس⹁ تتاڤي Domo [دومو] تله منيڠݢلکن ڤلاين دان سکارڠ ڤلاين اين تيدق برکاٴيت دڠنڽ دان اي جوݢ سوده تيدق دبوک کڤد عوام
 
   - icon: the-anime-man-discord.webp
     name: The Anime Man Discord

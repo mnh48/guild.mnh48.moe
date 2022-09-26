@@ -1,6 +1,6 @@
-name: Transit, Gender & Specific Niche
-name-ms: Transit, Gender & Nic Khusus
-name-ms-Arab: ترنسيت⹁ ݢيندر دان نيچ خصوص
+name: Transit & Various Niche
+name-ms: Transit & Pelbagai Nic
+name-ms-Arab: ترنسيت دان ڤلباݢاي نيچ
 color: f7a8b8
 order: 5
 guild:
@@ -66,3 +66,53 @@ guild:
       en: Server having many blob cats emoji to be used in other servers with Discord Nitro subscription
       ms: Pelayan yang mempunyai banyak emoji kucing blob untuk digunakan di pelayan lain dengan langganan Discord Nitro
       ms-Arab: ڤلاين يڠ ممڤوڽاٴي باڽق ايموجي کوچيڠ بلوب اونتوق دݢوناکن دڤلاين لاٴين دڠن لڠݢنن ديسکورد ناٴيترو
+
+  - icon: blender-community.gif
+    name: Blender Community
+    link: https://discord.gg/blender
+    banner: blender-community.png
+    introduction: none
+    summary:
+      en: Community server discussing everything related to [Blender](https://www.blender.org/), free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games
+      ms: Pelayan komuniti yang membincangkan apa sahaja yang berkaitan dengan [Blender](https://www.blender.org/), set alatan perisian grafik komputer 3D bersumber terbuka dan percuma yang digunakan untuk mencipta filem animasi, kesan visual, seni, model cetakan 3D, grafik bergerak, aplikasi 3D bertindakbalas, kenyataan maya, dan permainan komputer
+      ms-Arab: ڤلاين کومونيتي يڠ ممبينچڠکن اڤ سهاج يڠ برکاٴيتن دڠن [Blender](https://www.blender.org/) [بليندر]⹁ سيت التن ڤرايسين ݢرافيک کومڤوتر 3-د برسومبر تربوک دان ڤرچوما يڠ دݢوناکن اونتوق منچيڤتا فيلم انيماسي⹁ کسن ۏيسوال⹁ سني⹁ موديل چيتقن 3-د⹁ ݢرافيک برݢرق⹁ اڤليکاسي 3-د برتيندقبالس⹁ کڽاتاٴن ماي⹁ دان ڤرماٴينن کومڤوتر
+
+  - icon: vrchat.gif
+    name: VRChat
+    link: https://discord.gg/vrchat
+    banner: none
+    introduction: none
+    summary:
+      en: Official server for [VRChat](https://store.steampowered.com/app/438100/VRChat/), an online virtual world platform offering endless collection of social virtual reality experiences by giving the power of creation to its community
+      ms: Pelayan rasmi untuk [VRChat](https://store.steampowered.com/app/438100/VRChat/), sebuah platform dunia maya dalam talian yang menyediakan himpunan tanpa had pengalaman kenyataan maya sosial dengan memberikan kuasa penciptaan kepada komunitinya
+      ms-Arab: ڤلاين رسمي اونتوق [VRChat](https://store.steampowered.com/app/438100/VRChat/) [ۏي.ار.چيت]⹁ سبواه ڤلتفورم دنيا ماي دالم تالين يڠ مڽدياکن هيمڤونن تنڤا حد ڤڠالمن کڽاتاٴن ماي سوسيال دڠن ممبريکن کواس ڤنچيڤتاٴن کڤد کومونيتيڽ
+
+  - icon: rainmeter.gif
+    name: Rainmeter
+    link: https://discord.gg/rainmeter
+    banner: none
+    introduction: none
+    summary:
+      en: Community server discussing everything related to [Rainmeter](https://www.rainmeter.net/), a free and open-source desktop customization utility for Windows allowing you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers
+      ms: Pelayan komuniti yang membincangkan apa sahaja yang berkaitan dengan [Rainmeter](https://www.rainmeter.net/), sebuah utiliti pengubahsuaian atas meja bersumber terbuka dan percuma untuk Windows yang membolehkan anda memaparkan kulit tersuai pada atas meja anda, dari meter penggunaan perkakasan sehingga penggambaran audio yang berfungsi penuh
+      ms-Arab: ڤلاين کومونيتي يڠ ممبينچڠکن اڤ سهاج يڠ برکاٴيتن دڠن [Rainmeter](https://www.rainmeter.net/) [ريئينميتر]⹁ سبواه اوتيليتي ڤڠوبهسواين اتس ميجا برسومبر تربوک دان ڤرچوما اونتوق ويندوس يڠ ممبوليهکن اندا مماڤرکن کوليت ترسواي ڤد اتس ميجا اندا⹁ دري ميتر ڤڠݢوناٴن ڤرکاکسن سهيڠݢ ڤڠݢمبرن اٴوديو يڠ برفوڠسي ڤنوه
+
+  - icon: audacium-server.webp
+    name: Audacium Server
+    link: https://discord.gg/ZH5234Abhb
+    banner: none
+    introduction: none
+    summary:
+      en: Community server discussing everything related to [Audacium](https://audacium.xyz), an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems, a fork of Audacity
+      ms: Pelayan komuniti yang membincangkan apa sahaja yang berkaitan dengan [Audacium](https://audacium.xyz), sebuah penyunting dan perakam audio pelbagai runit yang senang digunakan untuk Windows, Mac OS X, GNU/Linux dan sistem pengoperasian lain, suatu cabangan Audacity
+      ms-Arab: ڤلاين کومونيتي يڠ ممبينچڠکن اڤ سهاج يڠ برکاٴيتن دڠن [Audacium](https://audacium.xyz) [اٴوداشيوم]⹁ سبواه ڤڽونتيڠ دان ڤراکم اٴوديو ڤلباݢاي رونوت يڠ سنڠ دݢوناکن اونتوق ويندوس⹁ مک او.ايس ايک‌س⹁ ݢنو\\لينک‌س دان سيستم ڤڠوڤراسين لاٴين⹁ سواتو چابڠن Audacity [اٴوداسيتي]
+
+  - icon: codingame.webp
+    name: CodinGame
+    link: https://discord.gg/qAKXEEv
+    banner: none
+    introduction: none
+    summary:
+      en: Community server for [CodinGame](https://www.codingame.com/), a challenge-based training platform for programmers where people can improve their coding skills with fun exercises
+      ms: Pelayan komuniti untuk [CodinGame](https://www.codingame.com/), sebuah platform latihan berasaskan cabaran untuk pengaturcara, di mana orang ramai boleh meningkatkan kemahiran kod mereka dengan latihan yang seronok
+      ms-Arab: ڤلاين کومونيتي اونتوق [CodinGame](https://www.codingame.com/) [کوديڠݢيم]⹁ سبواه ڤلتفورم لاتيهن براساسکن چابرن اونتوق ڤڠاتورچارا⹁ دمان اورڠ راماي بوليه منيڠکتکن کماهيرن کود مريک دڠن لاتيهن يڠ سرونوق

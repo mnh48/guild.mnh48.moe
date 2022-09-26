@@ -96,47 +96,6 @@ guild:
       ms: "Pelayan rasmi yang membincangkan mengenai Sekaipedia, wiki Miraheze untuk permainan Jepun Project SEKAI: Colorful Stage! feat. Hatsune Miku"
       ms-Arab: "ڤلاين رسمي يڠ ممبينچڠکن مڠناٴي Sekaipedia [سيکاٴيڤيديا]⹁ ويکي Miraheze [ميراهيزي] اونتوق ڤرماٴينن جڤون ‪Project SEKAI: Colorful Stage! feat. Hatsune Miku‬ [ڤروجيک سيکاٴي: کالرفول ستيج فيت. هاثوني ميکو]"
 
-  - icon: mysekai.webp
-    name: MYSekai
-    link: private
-    banner: mysekai.png
-    introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️<br/>
-      Malay demigirl nonbinary<br/>
-      <br/>
-      I'm maintaining the webhook that send tweets from Project SEKAI twitter into the server, and do background admin stuff
-    summary:
-      en: "Server for Malaysian community of Project SEKAI: Colorful Stage! feat. Hatsune Miku players, not open to public yet"
-      ms: "Pelayan untuk komuniti Malaysia buat pemain Project SEKAI: Colorful Stage! feat. Hatsune Miku, tidak dibuka untuk awam lagi"
-      ms-Arab: "ڤلاين اونتوق کومونيتي مليسيا بوات ڤماٴين ‪Project SEKAI: Colorful Stage! feat. Hatsune Miku‬ [ڤروجيک سيکاٴي: کالرفول ستيج فيت. هاثوني ميکو⹁ تيدق دبوک اونتوق عوام لاݢي]"
-
-  - icon: myvocal-official.webp
-    name: MYvocal Official
-    link: https://discord.gg/Bt9Ag8j
-    banner: myvocal-official.png
-    introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️<br/>
-      Malay demigirl nonbinary from Malaysia<br/>
-      Fan of VOCALOID and Hatsune Miku since 2009, when I stumbled "Sakura no Ame"<br/>
-      List of server I joined: <https://guild.mnh48.moe/>
-    summary:
-      en: Official server of [MYvocal](https://twitter.com/MyvocalOfficial), Vocaloid community team from Malaysia with the motive to bring together Vocaloid communities around South East Asia, mostly known for the 39LINK event, an online birthday party of Hatsune Miku
-      ms: Pelayan rasmi untuk [MYvocal](https://twitter.com/MyvocalOfficial), pasukan komuniti Vocaloid dari Malaysia dengan tujuan merapatkan komuniti Vocaloid sekitar Asia Tenggara lebih dekat, lebih dikenali dengan acara 39LINK, parti hari jadi dalam talian buat Hatsune Miku
-      ms-Arab: ڤلاين رسمي اونتوق [MYvocal](https://twitter.com/MyvocalOfficial) [ماٴيۏوکل]⹁ ڤاسوقن کومونيتي Vocaloid [ۏوکالوٴيد] دري مليسيا دڠن توجوان مراڤتکن کومونيتي Vocaloid [ۏوکالوٴيد] سکيتر اسيا تڠݢارا لبيه دکت⹁ لبيه دکنلي دڠن اچارا 39LINK [سنکيوليڠک]⹁ ڤرتي هاري جادي دالم تالين بوات هاثوني ميکو
-
-  - icon: lovelive-malaysia.webp
-    name: LoveLive! Malaysia
-    link: private
-    banner: lovelive-malaysia.png
-    introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️<br/>
-      Malay demigirl nonbinary from Malaysia<br/>
-      Fan of LoveLive! franchise since the original µ's era~~ To see other servers I'm in, check here: <https://guild.mnh48.moe/>
-    summary:
-      en: Server for Malaysian community of LoveLive! franchise, strictly for Malaysian only, link can be found after joining the Facebook group [LoveLivers! Malaysia](https://www.facebook.com/groups/sifmal) (while I no longer used Facebook, I joined the Discord server while still having Facebook account and part of that group)
-      ms: Pelayan untuk komuniti Malaysia buat francais LoveLive!, terhad untuk orang Malaysia sahaja, pautan boleh dijumpai selepas menyertai kumpulan Facebook [LoveLivers! Malaysia](https://www.facebook.com/groups/sifmal) (walaupun saya sudah tidak guna Facebook, saya sertai pelayan Discord tersebut ketika waktu saya masih ada akaun Facebook dan sebahagian dari kumpulan tersebut)
-      ms-Arab: ڤلاين اونتوق کومونيتي مليسيا بوات فرنچاٴيس ‪LoveLive!‬ [لۏلاٴيۏ!]⹁ ترحد اونتوق اورڠ مليسيا سهاج⹁ ڤاٴوتن بوليه دجومڤاٴي سلڤس مڽرتاٴي کومڤولن Facebook [فيسبوک] [‪LoveLivers! Malaysia‬](https://www.facebook.com/groups/sifmal) [لۏلاٴيۏرس! مليسيا] (والاوڤون ساي سوده تيدق ݢونا فيسبوک⹁ ساي سرتاٴي ڤلاين ديسکورد ترسبوت کتيک وقتو ساي ماسيه اد اکاٴون فيسبوک دان سبهاݢين دري کومڤولن ترسبوت)
-
   - icon: r-lovelive.gif
     name: /r/LoveLive
     link: https://discord.gg/lovelive
@@ -236,13 +195,3 @@ guild:
       en: Community server discussing everything related to [D4DJ](https://en.d4dj-pj.com/) franchise, including the anime series, games, DJ performances, concerts, and music releases
       ms: Pelayan komuniti yang membincangkan semua benda yang berkaitan dengan francais [D4DJ](https://en.d4dj-pj.com/), termasuk siri anime, permainan, persembahan DJ, konsert, dan terbitan muzik
       ms-Arab: ڤلاين کومونيتي يڠ ممبينچڠکن سموا بندا يڠ برکاٴيتن دڠن فرنچاٴيس [D4DJ](https://en.d4dj-pj.com/) [دي فور دي جي]⹁ ترماسوق سيري انيمي⹁ ڤرماٴينن⹁ ڤرسمبهن ديجي⹁ کونسرت⹁ دان تربيتن موزيک
-
-  - icon: d4dj-my.webp
-    name: D4DJ MY
-    link: private
-    banner: none
-    introduction: none
-    summary:
-      en: Server for Malaysian community of D4DJ franchise, not open to public yet
-      ms: Pelayan untuk komuniti Malaysia buat francais D4DJ, belum dibuka kepada awam lagi
-      ms-Arab: ڤلاين اونتوق کومونيتي مليسيا بوات فرنچاٴيس D4DJ [دي فور دي جي]⹁ بلوم دبوک کڤد عوام لاݢي
