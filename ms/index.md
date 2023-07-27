@@ -61,7 +61,7 @@ needbtt: true
 </style>
 
 
-Saya Yaya MNH48, saluran perhubungan saya yang utama ialah menerusi [Discord](https://discord.com/users/341115067934310411) yang mana tag pengguna saya ialah `MNH48#0048`.
+Saya Yaya MNH48, saluran perhubungan saya yang utama ialah menerusi [Discord](https://discord.com/users/341115067934310411) yang mana nama pengguna saya ialah `mnh48`. Kata ganti nama diri saya dalam bahasa Inggeris, seperti yang ditulis dalam profil Discord saya, ialah `she/her`.
 
 Ditunjukkan di bawah ini ialah pengepala dan pengenalan pada profil sejagat saya. Ia dipaparkan apabila anda melihat profil saya dalam sesuatu pelayan jika saya tidak menetapkan sebarang pengepala atau pengenalan profil yang khusus untuk pelayan tersebut, atau apabila anda melihat profil saya secara terus dari layar mesej peribadi.
 
@@ -77,9 +77,12 @@ Ditunjukkan di bawah ini ialah pengepala dan pengenalan pada profil sejagat saya
       </div>
     </td>
     <td style="text-align: left; line-height: 1.2em; font-size: 0.8em;" markdown="span">
-      [she/her] 🇲🇾 🏳️‍⚧️ Malay demigirl nonbinary from Malaysia—DIY HRT since 14/02/2020<br/>
+      🇲🇾 🏳️‍⚧️ Malay demigirl from Malaysia<br/>
+      DIY HRT 14/02/2020~<br/>
       <br/>
-      Translating English/Chinese/Japanese to Malay—[https://tl.mnh48.moe/](https://tl.mnh48.moe/)<br/>Also: [https://guild.mnh48.moe/](https://guild.mnh48.moe/)
+      My translation work: [https://tl.mnh48.moe/](https://tl.mnh48.moe/)<br/>
+      Servers I'm on: [https://guild.mnh48.moe/](https://guild.mnh48.moe/)<br/>
+      Support me: [https://mnh48.moe/en/support](https://mnh48.moe/en/support)
     </td>
   </tr>
 </table>

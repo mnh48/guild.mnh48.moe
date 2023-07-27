@@ -62,7 +62,7 @@ redirect_from: "/"
 </style>
 
 
-I'm Yaya MNH48, my main communication channel is [Discord](https://discord.com/users/341115067934310411) where my user tag is `MNH48#0048`.
+I'm Yaya MNH48, my main communication channel is [Discord](https://discord.com/users/341115067934310411) where my username is `mnh48`. My pronoun, as appeared in my profile on Discord, is `she/her`.
 
 Shown below is the default banner and introduction on my global profile. It's what you see when you view my profile on a server if I don't set any server-specific profile banner or introduction for that server, or if you view my profile from the direct message screen.
 
@@ -78,9 +78,12 @@ Shown below is the default banner and introduction on my global profile. It's wh
       </div>
     </td>
     <td style="text-align: left; line-height: 1.2em; font-size: 0.8em;" markdown="span">
-      [she/her] 🇲🇾 🏳️‍⚧️ Malay demigirl nonbinary from Malaysia—DIY HRT since 14/02/2020<br/>
+      🇲🇾 🏳️‍⚧️ Malay demigirl from Malaysia<br/>
+      DIY HRT 14/02/2020~<br/>
       <br/>
-      Translating English/Chinese/Japanese to Malay—[https://tl.mnh48.moe/](https://tl.mnh48.moe/)<br/>Also: [https://guild.mnh48.moe/](https://guild.mnh48.moe/)
+      My translation work: [https://tl.mnh48.moe/](https://tl.mnh48.moe/)<br/>
+      Servers I'm on: [https://guild.mnh48.moe/](https://guild.mnh48.moe/)<br/>
+      Support me: [https://mnh48.moe/en/support](https://mnh48.moe/en/support)
     </td>
   </tr>
 </table>

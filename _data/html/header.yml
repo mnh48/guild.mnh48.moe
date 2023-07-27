@@ -3,46 +3,54 @@ en:
   webtitle: MNH48 Guild
   pagetitle: List of Discord servers that Yaya MNH48 had joined.
   pagelanguage: English
+  changelang: Change language
   backtext: ← Back
 ms:
   domain: ms
   webtitle: Perseikatan MNH48
   pagetitle: Senarai pelayan Discord yang Yaya MNH48 telah sertai.
   pagelanguage: Bahasa Melayu Rumi
+  changelang: Tukar bahasa
   backtext: ← Kembali
 ms-Arab:
   domain: jawi
   webtitle: ڤرسأيکتن MNH48
   pagetitle: سناراي ڤلاين ديسکورد يڠ يايا MNH48 تله سرتاٴي.
   pagelanguage: بهاس ملايو جاوي
+  changelang: توکر بهاس
   backtext: → کمبالي
 ms-Rjng:
   domain: rjng
   webtitle: ꤶꥍꥑꤼꥍꥆꥇꤰꤳꥐ MNH48
   pagetitle: ꤼꥍꤵꤽꥊ ꤶꥍꤾꤿꥐ Discord ꤿꥏ ꤿꤿ MNH48 ꤳꥍꤾꥒ ꤼꥍꥑꤳꥆꥇ.
   pagelanguage: ꤷꥁꤼ ꤸꥍꤾꤿꥈ ꤽꥍꤺꥏ
+  changelang: ꤳꥈꤰꥑ ꤷꥁꤼ
   backtext: ← ꤰꥍꤸ꥓ꤷꤾꥇ
 ja:
   domain: jpn
   webtitle: MNH48 ギルド
   pagetitle: 【ややMNH48】さんが参加したDiscordサーバーの一覧。
   pagelanguage: 日本語
+  changelang: 言語を変更する
   backtext: ←　返る
 zh-Hans:
   domain: chn
   webtitle: MNH48 行会
   pagetitle: 亚呀MNH48加入的Discord服务器列表。
   pagelanguage: 简体华文
+  changelang: 更改语言
   backtext: ← 返回
 zh-Hant:
   domain: twn
   webtitle: MNH48 行會
   pagetitle: 亞呀MNH48加入的Discord服務器列表。
   pagelanguage: 繁體華文
+  changelang: 更改語言
   backtext: ← 返回
 mul:
   domain: www
   webtitle: MNH48 Guild - Perseikatan MNH48
   pagetitle: MNH48 行会 - MNH48 ギルド
-  pagelanguage: Choose language
+  pagelanguage: Mixed language
+  changelang: Choose language
   backtext: ←
