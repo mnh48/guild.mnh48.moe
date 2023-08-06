@@ -7,23 +7,23 @@ guild:
   - icon: discord-town-hall.webp
     name: Discord Town Hall
     link: https://discord.gg/discord-townhall
-    banner: discord.png
+    banner: discord-town-hall.png
     introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️<br/>
-      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
       I hope Discord will be available in Malay language soon so that I can bring more friends in my country onboard the Discord train.
     summary:
       en: Official Discord Town Hall server, the official place for anyone who loves Discord
       ms: Pelayan Dewan Bandar Discord yang rasmi, tempat rasmi untuk sesiapa yang menyayangi Discord
       ms-Arab: ڤلاين ديوان باندر ديسکورد يڠ رسمي⹁ تمڤت رسمي اونتوق سسياڤا يڠ مڽايڠي ديسکورد
 
-  - icon: discord-developers.webp
+  - icon: discord-developers.gif
     name: Discord Developers
     link: https://discord.gg/discord-developers
-    banner: discord.png
+    banner: discord-developers.png
     introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️<br/>
-      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
       I mainly run private Discord bot in my own server, not for public use. I also help translating public bots from English to Malay.
     summary:
       en: Official Discord Developers server and everything must be on-topic
@@ -33,10 +33,10 @@ guild:
   - icon: discord-api.webp
     name: Discord API
     link: https://discord.gg/discord-api
-    banner: discord.png
+    banner: discord-api.png
     introduction: >
-      [she/her] 🇲🇾 🏳️‍⚧️<br/>
-      I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
       I mainly run private Discord bot in my own server, not for public use. I also help translating public bots from English to Malay.
     summary:
       en: “Official unofficial” API server where library and bot developer hangout and help each other
@@ -46,8 +46,11 @@ guild:
   - icon: hammertime.webp
     name: HammerTime
     link: https://hammertime.djdavid98.art/discord
-    banner: none
-    introduction: none
+    banner: hammertime.png
+    introduction: >
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
+      I'm Malay translator for HammerTime website. I have plan to translate the bot but the bot don't support languages not in Discord itself.
     summary:
       en: Community server for [HammerTime](https://hammertime.cyou/), a tool from DJDavid98 to convert normal readable date into Discord message's chat syntax date format
       ms: Pelayan komuniti untuk [HammerTime](https://hammertime.cyou/), alatan dari DJDavid98 untuk menukar tarikh boleh baca biasa kepada format tarikh sintaks sembang mesej Discord
@@ -56,8 +59,12 @@ guild:
   - icon: premid.webp
     name: PreMiD
     link: https://discord.premid.app/
-    banner: none
-    introduction: none
+    banner: premid.png
+    introduction: >
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
+      I'm the Malay translator for the PreMiD website, presence content, and documentation.<br/>
+      Other translation work: [https://tl.mnh48.moe/](https://tl.mnh48.moe/)
     summary:
       en: Support server for [PreMiD](https://premid.app/), a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status
       ms: Pelayan sokongan untuk [PreMiD](https://premid.app/), sebuah utiliti mudah, senang ditatarajah yang membolehkan anda menunjukkan apa anda buat di laman sesawang pada status bermain sekarang di Discord
@@ -66,8 +73,12 @@ guild:
   - icon: recovide-localization-community.webp
     name: Recodive Localization Community
     link: https://discord.gg/4x9rmFRtg4
-    banner: none
-    introduction: none
+    banner: premid.png
+    introduction: >
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
+      I'm the Malay translator for PreMiD, one of the computer program under Recodive.<br/>
+      Other translation work: [https://tl.mnh48.moe/](https://tl.mnh48.moe/)
     summary:
       en: Translation server for PreMiD and any future Recodive app
       ms: Pelayan terjemahan untuk PreMiD dan sebarang aplikasi Recodive yang akan datang
@@ -76,8 +87,11 @@ guild:
   - icon: ifttt.webp
     name: IFTTT
     link: https://discord.gg/ifttt
-    banner: none
-    introduction: none
+    banner: ifttt.png
+    introduction: >
+      🇲🇾 🏳️‍⚧️ I'm Yaya MNH48, a Malay from Malaysia.<br/>
+      <br/>
+      I'm a paid user of IFTTT who use it to keep up with news and what's happening around me, as well as share it with other people around me.
     summary:
       en: Community server for [r/IFTTT](https://www.reddit.com/r/ifttt/) subreddit, mostly people helping each other on webhook
       ms: Pelayan komuniti untuk subreddit [r/IFTTT](https://www.reddit.com/r/ifttt/), kebanyakannya orang yang saling tolong-menolong mengenai cangkuk sesawang webhook
